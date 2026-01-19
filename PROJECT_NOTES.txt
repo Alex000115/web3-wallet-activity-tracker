@@ -1,0 +1,2 @@
+This project is built for learning Web3 basics.
+Focus is on understanding blockchain data and public APIs.
